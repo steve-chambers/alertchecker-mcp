@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.steve-chambers/alertchecker-mcp",
+  "description": "Create AI-monitored web alerts from plain English — just say \"Alert me when...\"",
+  "websiteUrl": "https://alertchecker.com",
+  "repository": {
+    "url": "https://github.com/steve-chambers/alertchecker-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://alertchecker.com/api/mcp"
+    }
+  ]
+}
