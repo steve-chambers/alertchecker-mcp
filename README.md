@@ -9,7 +9,7 @@ AlertChecker watches the web for you and emails you when a plain-English stateme
 **Example prompts:**
 - "Alert me when the iPhone 16 Pro is back in stock at apple.com"
 - "Let me know whenever it's going to rain in London tomorrow"
-- "Alert me when Tesla stock drops below $200"
+- "Email me when Tesla stock drops below $200"
 - "Tell me if there's an earthquake over 4.0 magnitude in California"
 
 ## Tools
